@@ -1,4 +1,4 @@
-class Solution(object)
+class Solution(object):
 def string(self, laystack,needle):
     
     n,m =len(laystack), len(needle)

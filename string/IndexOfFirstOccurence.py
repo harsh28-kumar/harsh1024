@@ -7,5 +7,3 @@ class Solution(object):
         """
         return haystack.find(needle)
     
-obj = Solution()
-print(obj.strStr("sadbutsad","sad"))
